@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the my Tech Talent South Social Media project. This project was completed over three course days and includes usage of: HTML/CSS, JS, Thymeleaf, Bootstrap, Lombok, and Java. Currently, the application only runs from within Visual Studio Code using the applicable extensions.
+Welcome to my Tech Talent South Social Media project. This project was completed over three course days and includes usage of: HTML/CSS, JS, Thymeleaf, Bootstrap, Lombok, and Java. Currently, the application only runs from within Visual Studio Code using the applicable extensions.
 
 ## Assignment
 
